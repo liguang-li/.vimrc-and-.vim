@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/wrsadmin/workstation/linux-stable/linux-stable'
+let g:netrw_dirhist_2='/home/wrsadmin/workstation/lttng/lttng-tools'
+let g:netrw_dirhist_3='/home/wrsadmin/workstation/linux-stable/linux-stable'
+let g:netrw_dirhist_4='/home/wrsadmin/workstation/Github/glusterfs'
+let g:netrw_dirhist_5='/home/wrsadmin/workstation/linux-stable/linux-stable'
+let g:netrw_dirhist_6='/home/wrsadmin/workstation/lttng'
